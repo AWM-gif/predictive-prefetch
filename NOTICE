@@ -1,6 +1,16 @@
-This project is a modified version of instant.page (https://instant.page)
+This project is a modified version of instant.page v5.2.0
 Original copyright © 2019–2024 Alexandre Dieulot – MIT License
-Modifications © 2025 Affluent Web Media – Licensed under Apache 2.0
+https://instant.page/license
 
-This repository contains code and logic originally developed under the MIT License by Alexandre Dieulot.
-Significant changes and enhancements were introduced by Affluent Web Media for predictive prefetching with cache validation, Cloudflare integration, and bandwidth efficiency.
+Modifications copyright © 2025 Affluent Web Media
+Licensed under the Apache License, Version 2.0
+https://affluentwebmedia.com
+
+This project contains original source code developed by Alexandre Dieulot under the MIT License.
+Significant modifications were introduced by Affluent Web Media to enable:
+
+- Cloudflare cache-aware prefetching using HEAD checks
+- Bandwidth-efficient loading
+- Improved filtering of uncacheable and external requests
+
+These changes support modern SEO, speed optimization, and prefetch predictability in production environments.
