@@ -103,7 +103,9 @@ This modified version: © 2025 Affluent Web Media – Licensed under Apache Lice
 Maintained by [Affluent Web Media](https://affluentwebmedia.com/)
 Performance-focused script designed for high-speed websites and technical SEO use cases.
 
-Related project: [AstrologyFutureEye.com](https://astrologyfutureeye.com/)
+Used in modified form on:
+• [AstrologyFutureEye.com](https://astrologyfutureeye.com/)
+• [AstroLookup.com](https://www.astrolookup.com/)
 
 🧠 Notes
 This script does not use <link rel="prefetch"> to avoid prefetch race conditions or wasted requests.
