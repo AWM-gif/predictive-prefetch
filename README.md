@@ -103,7 +103,7 @@ This modified version: © 2025 Affluent Web Media – Licensed under Apache Lice
 Maintained by [Affluent Web Media](https://affluentwebmedia.com/)
 Performance-focused script designed for high-speed websites and technical SEO use cases.
 
-Used in modified form on:
+Tested in simplified, GET-based form on:
 • [AstrologyFutureEye.com](https://astrologyfutureeye.com/)
 • [AstroLookup.com](https://www.astrolookup.com/)
 
