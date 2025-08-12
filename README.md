@@ -90,6 +90,7 @@ This is a **heavily modified fork** of [https://instant.page/5.2.0](https://inst
 
   <script src="/predictive-prefetch.js" defer></script>
 </body>
+```
 
 📄 License
 Original engine: © 2019–2024 Alexandre Dieulot – MIT License
