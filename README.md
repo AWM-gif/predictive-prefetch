@@ -88,7 +88,7 @@ This is a **heavily modified fork** of [https://instant.page/5.2.0](https://inst
   <a href="/about">About Us</a>
   <a href="/tools" data-noInstant>Do not prefetch</a>
 
-  <script src="/predictive-prefetch.js" defer></script>
+  <script src="predictive-prefetch.min.js" defer></script>
 </body>
 ```
 
