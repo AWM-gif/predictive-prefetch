@@ -1,5 +1,5 @@
 /*! predictive-prefetch.min.js – Modified version of instant.page v5.2.0 | © 2019–2024 Alexandre Dieulot (MIT) | https://instant.page/license |
-© 2025 Affluent Web Media (Apache-2.0) | https://affluentwebmedia.com */
+© 2025 Affluent Web Media (Apache-2.0) | https://affluentwebmedia.com */ 
 
 document.addEventListener('DOMContentLoaded', function() {
     const blacklist = ["_HOME_", "/folder1/", "/folder2/", "/about", "/contact"];
