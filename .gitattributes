@@ -1,0 +1,7 @@
+predictive-prefetch.min.js linguist-vendored
+
+*.js linguist-language=JavaScript
+
+node_modules/* linguist-vendored
+dist/* linguist-vendored
+build/* linguist-vendored
