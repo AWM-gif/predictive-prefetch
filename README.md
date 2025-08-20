@@ -1,6 +1,10 @@
-# predictive-prefetch
-Smart predictive prefetch script that fetches only Cloudflare-cached pages after user intent is detected.
-Reduces bandwidth, improves perceived speed, and avoids wasteful preloading.
+**⚡ Ultra-fast Cloudflare-compatible prefetching — built for SEO, speed, and performance-first websites.**
+
+# Cloudflare Prefetch Intent
+A lightweight, smart prefetching script by Affluent Web Media
+ that intelligently fetches only Cloudflare-cached internal pages — only after user intent is detected. Designed to boost site speed, reduce bandwidth, and improve Core Web Vitals without wasteful preloading.
+ 
+Optimized for speed-conscious developers, it eliminates wasteful prefetching and validates content before triggering requests — saving bandwidth and improving UX, and reducing load on the origin server.
 Includes cache-control and CF-Cache-Status filtering.
 Built for performance-focused websites.
 
@@ -61,7 +65,7 @@ Traditional prefetching can waste bandwidth by fetching uncached pages.
 
 ---
 
-## ✨ What's Unique in This Fork?
+## ✨ What's Unique in This Cloudflare Predictive Prefetch?
 
 This is a **heavily modified fork** of [https://instant.page/5.2.0](https://instant.page/license) with the following **enhancements**:
 
@@ -77,7 +81,7 @@ This is a **heavily modified fork** of [https://instant.page/5.2.0](https://inst
 
 ---
 
-## 💡 Example Usage
+## 💡 How to Integrate Cloudflare Intent-Based Prefetch in Your Website
 
 ```html
 <body
